@@ -1,7 +1,7 @@
 package provider
 
 import (
-	"github.com/Just-maple/go-autowire/example_iwanta"
+	"github.com/windrivder/go-autowire/example_iwanta"
 )
 
 //@autowire()

@@ -18,7 +18,7 @@ then
 
 Install Gutowire by running:
 ```sh
-go get github.com/Just-maple/go-autowire/cmd/gutowire
+go get github.com/windrivder/go-autowire/cmd/gutowire
 ```
 and ensuring that $GOPATH/bin is added to your $PATH.
 

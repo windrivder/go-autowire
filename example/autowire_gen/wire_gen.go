@@ -6,12 +6,12 @@
 package autowire_gen
 
 import (
-	"github.com/Just-maple/go-autowire/example/dependencies"
-	test_b2 "github.com/Just-maple/go-autowire/example/dependencies/test_b"
-	test2 "github.com/Just-maple/go-autowire/example/dependencies/test_b/test"
-	"github.com/Just-maple/go-autowire/example/dependencies/test_b/test/test"
-	"github.com/Just-maple/go-autowire/example/dependencies/test_b/test/test_b"
-	"github.com/Just-maple/go-autowire/example/dependencies/test_c"
+	"github.com/windrivder/go-autowire/example/dependencies"
+	test_b2 "github.com/windrivder/go-autowire/example/dependencies/test_b"
+	test2 "github.com/windrivder/go-autowire/example/dependencies/test_b/test"
+	"github.com/windrivder/go-autowire/example/dependencies/test_b/test/test"
+	"github.com/windrivder/go-autowire/example/dependencies/test_b/test/test_b"
+	"github.com/windrivder/go-autowire/example/dependencies/test_c"
 )
 
 // Injectors from wire.gen.go:

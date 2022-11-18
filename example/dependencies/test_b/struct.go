@@ -1,8 +1,8 @@
 package test_b
 
 import (
-	test2 "github.com/Just-maple/go-autowire/example/dependencies/test_b/test"
-	test_b2 "github.com/Just-maple/go-autowire/example/dependencies/test_b/test/test_b"
+	test2 "github.com/windrivder/go-autowire/example/dependencies/test_b/test"
+	test_b2 "github.com/windrivder/go-autowire/example/dependencies/test_b/test/test_b"
 )
 
 // @autowire(set=struct)

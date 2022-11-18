@@ -1,9 +1,9 @@
 package dependencies
 
 import (
-	"github.com/Just-maple/go-autowire/example/dependencies/test_b"
-	"github.com/Just-maple/go-autowire/example/dependencies/test_b/test"
-	"github.com/Just-maple/go-autowire/example/dependencies/test_c"
+	"github.com/windrivder/go-autowire/example/dependencies/test_b"
+	"github.com/windrivder/go-autowire/example/dependencies/test_b/test"
+	"github.com/windrivder/go-autowire/example/dependencies/test_c"
 )
 
 // @autowire.init(set=struct)

@@ -3,9 +3,9 @@ package example_iwanta
 import (
 	"testing"
 
-	gutowire "github.com/Just-maple/go-autowire"
-	"github.com/Just-maple/go-autowire/example/dependencies"
-	"github.com/Just-maple/go-autowire/example_zoo"
+	gutowire "github.com/windrivder/go-autowire"
+	"github.com/windrivder/go-autowire/example/dependencies"
+	"github.com/windrivder/go-autowire/example_zoo"
 )
 
 var zoo example_zoo.Dog

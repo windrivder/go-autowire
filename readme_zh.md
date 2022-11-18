@@ -21,7 +21,7 @@ then
 安装`gutowire`
 
 ```sh
-go get github.com/Just-maple/go-autowire/cmd/gutowire
+go get github.com/windrivder/go-autowire/cmd/gutowire
 ```
 
 确保`$GOPATH/bin`已经添加到环境变量`$PATH`
