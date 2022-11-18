@@ -13,8 +13,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/windrivder/xtoolinternal/gocommand"
-	"github.com/windrivder/xtoolinternal/imports"
+	"github.com/Just-maple/xtoolinternal/gocommand"
+	"github.com/Just-maple/xtoolinternal/imports"
 	"golang.org/x/mod/modfile"
 	imports2 "golang.org/x/tools/imports"
 )
